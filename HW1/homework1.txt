@@ -1,0 +1,7 @@
+1) The video_id and trending_date columns compose a minimal key.
+
+2)To test that the columns are a key, you would check the count of total rows 
+against the count of distinct rows across all field values. To test for a
+minimal key, you would check the count of total rows against the distinct rows
+of possible column subsets. If any the smallest such subset(s) that produces a 
+distinct row count matching the total row count is a minimal key.
