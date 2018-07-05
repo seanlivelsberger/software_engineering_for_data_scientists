@@ -1,4 +1,4 @@
-# software_engineering_for_data_scientists
+# Software Engineering For Data Scientists
 
 Class documentation can be found here:
 
